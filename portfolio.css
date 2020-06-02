@@ -1,0 +1,33 @@
+h2 {
+    background-color: rgb(37, 34, 34);
+    text-align: center;
+    position: absolute;
+    bottom: 10px;
+    width: 90%;
+}
+
+a {
+    color: white;
+}
+
+hr {
+    background-color: gray
+}
+
+h1 {
+    margin-left: 15px;
+}
+
+
+}
+@media only screen and (min-width: 2500px) {
+    .card-img-top {
+        width: 40%;
+        height: 40%;
+    }
+}
+@media only screen and (min-width: 350px) {
+    .col-sm-md-4 {
+        margin-left: 10%;
+    }
+}
